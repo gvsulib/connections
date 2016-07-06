@@ -96,7 +96,7 @@ h1 a {
 #list_wrapper ol li {
 		margin-left: 8px;
 		width: 195px;
-		height: 16em;
+		height: 18em;
 	}
 
 #list_wrapper ol li a {
@@ -122,9 +122,9 @@ h1 a {
 	background-color: #999;
 	color: #fff;
 	display: block;
-	font-size: 4em;
+	font-size: 6em;
 	margin-bottom: .1em;
-	padding: .1em 0;
+	padding: .2em 0;
 	text-align: center;
 	width: 100%;
 }
