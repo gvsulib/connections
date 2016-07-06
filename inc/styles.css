@@ -1,0 +1,223 @@
+/* http://meyerweb.com/eric/tools/css/reset/ 
+   v2.0 | 20110126
+   License: none (public domain)
+*/
+
+html, body, div, span, applet, object, iframe,
+h1, h2, h3, h4, h5, h6, p, blockquote, pre,
+a, abbr, acronym, address, big, cite, code,
+del, dfn, em, img, ins, kbd, q, s, samp,
+small, strike, strong, sub, sup, tt, var,
+b, u, i, center,
+dl, dt, dd, ol, ul, li,
+fieldset, form, label, legend,
+table, caption, tbody, tfoot, thead, tr, th, td,
+article, aside, canvas, details, embed, 
+figure, figcaption, footer, header, hgroup, 
+menu, nav, output, ruby, section, summary,
+time, mark, audio, video {
+	margin: 0;
+	padding: 0;
+	border: 0;
+	font-size: 100%;
+	font: inherit;
+	vertical-align: baseline;
+}
+/* HTML5 display-role reset for older browsers */
+article, aside, details, figcaption, figure, 
+footer, header, hgroup, menu, nav, section {
+	display: block;
+}
+body {
+	line-height: 1;
+}
+ol, ul {
+	list-style: none;
+}
+blockquote, q {
+	quotes: none;
+}
+blockquote:before, blockquote:after,
+q:before, q:after {
+	content: '';
+	content: none;
+}
+table {
+	border-collapse: collapse;
+	border-spacing: 0;
+}
+
+/* New Styles */
+
+html {
+	width: 100%;
+}
+
+body {
+	font-family: Helvetica, Arial, sans-serif;
+}
+
+
+h1 {
+	text-align: center;
+	margin: 1em 0;
+	font-size: 1.4em;
+}
+
+h1 a { 
+	color: #575757; 
+	text-decoration: none;
+	text-transform: uppercase;
+}
+
+.bio_wrapper h2 {
+	margin: .6em 0;
+	text-transform: uppercase;
+	color: #575757;
+	font-size: 1.3em;
+}
+
+.bio_wrapper p {
+	line-height: 1.3em;
+	font-size: .9em;
+	margin-left: 152px;
+	margin-right: 16px;
+}
+
+#list_wrapper ol li {
+	background-color: #333;
+	color: #ddd;
+	display: block;
+	margin-bottom: 1em;
+	overflow: hidden;
+	float: left;
+}
+
+#list_wrapper ol li {
+		margin-left: 8px;
+		width: 161px;
+		height: 16em;
+	}
+
+#list_wrapper ol li a {
+	color: #ddd;
+	text-decoration: none;
+}
+
+
+#list_wrapper ol li a h2 {
+	font-size: 1.3em;
+	margin-bottom: .2em;
+	padding: 0 8px;
+	text-decoration: underline;
+}
+
+#list_wrapper ol li a p {
+	font-size: .9em;
+	line-height: 1.3em;
+	padding: .6em 8px;
+}
+
+#list_wrapper ol li span.letter {
+	background-color: #999;
+	color: #fff;
+	display: block;
+	font-size: 4em;
+	margin-bottom: .1em;
+	padding: .1em 0;
+	text-align: center;
+	width: 100%;
+}
+
+div.letter {
+	background-color: #999;
+	color: #fff;
+	display: block;
+	font-size: 6em;
+	margin-bottom: .1em;
+	padding: .1em 0;
+	text-align: center;
+	float: left;
+	width: 1.25em;
+	margin-left: 16px;
+	margin-right: 16px;
+}
+
+.back-button {
+	margin-left: 16px;
+	margin-bottom: 1em;
+}
+
+.btn {
+    display: inline-block;
+    padding: 6px 12px;
+    margin-bottom: 0;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 1.42857143;
+    text-align: center;
+    white-space: nowrap;
+    vertical-align: middle;
+    -ms-touch-action: manipulation;
+    touch-action: manipulation;
+    cursor: pointer;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+    background-image: none;
+    border: 1px solid transparent;
+    border-radius: 4px;
+}
+
+.btn-default {
+    color: #333;
+    background-color: #fff;
+    border-color: #ccc;
+    text-decoration: none;
+}
+
+.btn-default:hover {
+    color: #333;
+    background-color: #e6e6e6;
+    border-color: #adadad;
+}
+
+.audio_player {
+	clear: both;
+	margin-top: 1.2em;
+	margin-left: 152px;
+	margin-right: 16px;
+	font-size: 1.1em;
+}
+
+.audio_player ol li {
+	
+	border-bottom: 1px solid #ddd;
+}
+
+.audio_player ol li:first-child {
+	border-top: 1px solid #ddd;
+}
+
+.audio_player ol li span {
+	display: inline-block;
+	margin-right: 16px;
+}
+
+.audio_player a {
+	display: block;
+	padding: .65em;
+	color: #069;
+	text-decoration: none;
+}
+
+.audio_player a:hover,
+.audio_player a:active {
+	background-color: #ddd;
+}
+
+.audio_player a:visited {
+	background-color: #efefef;
+}
+
