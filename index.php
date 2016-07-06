@@ -11,11 +11,11 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-	<meta name="viewport" content="width=device-width, initial-scale=1" />
+	<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
 	<meta name="description" content="<?php echo $website_desc; ?>" />
 	<meta name="charset" content="utf-8" />
 
-	<title><?php echo $website_title; ?></title>
+	<title><?php echo $website_title; ?> :: A GVSU Libraries Exhibit</title>
 
 	<link rel="stylesheet" type="text/css" href="inc/fa/css/font-awesome.min.css" />
 	<link rel="stylesheet" type="text/css" href="inc/styles.css" />
