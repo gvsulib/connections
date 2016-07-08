@@ -25,7 +25,7 @@
 <body>
 
 	<header>
-		<h1><a href="index.php"><?php echo $website_title; ?></a></h1>
+		<h1><a href="index.php"><span><?php echo $website_title; ?></span></a></h1>
 	</header>
 
 <?php 
