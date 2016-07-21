@@ -264,7 +264,7 @@ h1 {
 }
 
 #list_wrapper {
-	margin-top: 10em;
+	padding-top: 10em;
 }
 html {
 	background-image: url(img/circle-bp.png);
@@ -272,7 +272,7 @@ html {
 	background-position: -15% 175%;}
 body {
 	max-width:1024px;
-	margin: auto;
+	margin: 0 auto;
 	max-height: 768px;
 	height: 768px;
 background-image: url(img/circle-ogp.png);
