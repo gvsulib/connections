@@ -54,7 +54,7 @@ html {
 }
 
 body {
-	font-family: Helvetica, Arial, sans-serif;
+	font-family: 'Pathway Gothic One', sans-serif;
 }
 
 
@@ -226,4 +226,60 @@ div.letter {
 .audio_player a:visited {
 	background-color: #efefef;
 }
+
+/* Changes */
+
+span.letter {
+	display: none !important;
+}
+
+#list_wrapper ol li a {
+	color: #333;
+}
+
+#list_wrapper ol li {
+		margin-left: 8px;
+		width: 195px;
+		height: 170px;
+		padding-top: 25px;
+		border-radius: 50%;
+	}
+
+#list_wrapper ol li {
+	background-color: #78b7e3;
+	text-align: center;
+	margin-bottom: 2em;
+}
+
+#list_wrapper ol li a h2 {
+	font-size: 1.7em;
+}
+
+#list_wrapper ol li a p {
+	font-size: 1.1em;
+}
+
+h1 {
+	display: none;
+}
+
+#list_wrapper {
+	margin-top: 10em;
+}
+html {
+	background-image: url(img/circle-bp.png);
+	background-repeat: no-repeat;
+	background-position: -15% 175%;}
+body {
+	max-width:1024px;
+	margin: auto;
+	max-height: 768px;
+	height: 768px;
+border: 1px solid #bbb;
+background-image: url(img/circle-ogp.png);
+background-repeat: no-repeat;
+background-position: 60% -45%;}
+
+
+
 

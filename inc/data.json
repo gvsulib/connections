@@ -1,8 +1,8 @@
 {
   "1":{
-    "Name": "Elise",
-    "ShortBio": "Elyse, 28, just finished her first year at GVSU.",
-    "LongBio": "Elyse, 28, just finished her first year at GVSU.  A freelance writer in Grand Rapids, editor for The 3288 Review and owner of a personal biography service called Your Story, Elyse also works as the managing editor at the Richard M. And Helen DeVos  Center for Entrepreneurship and Innovation (CEI) in the Seidman College of Business. She is majoring in journalism and minoring in German. After dropping out of high school and taking classes at GRCC in her early twenties, Elyse looks at education differently than she once did. She is a highly motivated, successful student who, after graduating, plans to pursue a master's degree in journalism and someday, ride a motorbike through Vietnam.",
+    "Name": "Elyse",
+    "ShortBio": "<!--Elyse, -->28 years old, just finished her first year at GVSU.",
+    "LongBio": "<!--Elyse, -->28 years old, just finished her first year at GVSU.  A freelance writer in Grand Rapids, editor for The 3288 Review and owner of a personal biography service called Your Story, Elyse also works as the managing editor at the Richard M. And Helen DeVos  Center for Entrepreneurship and Innovation (CEI) in the Seidman College of Business. She is majoring in journalism and minoring in German. After dropping out of high school and taking classes at GRCC in her early twenties, Elyse looks at education differently than she once did. She is a highly motivated, successful student who, after graduating, plans to pursue a master's degree in journalism and someday, ride a motorbike through Vietnam.",
      "Audio": {
       "0": {
         "Desc": "Here is a short description about the first audio file",
@@ -18,7 +18,7 @@
   },
   "2":{
     "Name": "Liz",
-    "ShortBio": "Liz is a biology major, currently applying to graduate veterinary programs.",
+    "ShortBio": "<!--Liz is--> a biology major, currently applying to graduate veterinary programs.",
     "LongBio": "Liz is a biology major, currently applying to graduate veterinary programs. A student in the Honors College, Liz comes from a rural, farm community and has known what she wanted to study since she got her first set of pigs to show at the county fair when she was only 4 years old. Liz is a driven, talented student who admits having had to learn new study and time management skills to succeed at GVSU in her very challenging field of study. In spite of her demanding schedule, Liz has found the time to be a program volunteer, a Murray International House peer mentor, and a Women in Science and Engineering (WISE) resident assistant. She credits a lot of her success to her involvement with campus activities.",
      "Audio": {
       "0": {
@@ -35,7 +35,7 @@
   },
    "3":{
     "Name": "Jesenia",
-    "ShortBio": "Jesenia graduated from Wyoming High School. She is a junior, majoring in nursing.",
+    "ShortBio": "<!--Jesenia -->graduated from Wyoming High School. She is a junior, majoring in nursing.",
     "LongBio": "Jesenia graduated from Wyoming High School. She is a junior, majoring in nursing. She is a first-generation student from a big family and has made the Dean's List the past two semesters, earning top grades in tough classes while working two jobs. One of her jobs is on campus, in the Financial Aid office. She is also involved with TRiO Student Support Services, a program for first-generation and limited-income students. She feels that this program has helped build her confidence academically and helped her, as a Latina student, find her place at GVSU and feel truly a part of the campus community. Balancing the demands of her work and school schedules sometimes leaves Jesenia little time for her super-supportive family and friends, but she handles her load with grace, ability, and perseverance.",
     "Audio": {
       "0": {
@@ -52,7 +52,7 @@
   },
    "4":{
     "Name": "Kayla",
-    "ShortBio": "Kayla is a lib studies major, a Marine Corps veteran, a wife, a mother, and a transplant to West Michigan.",
+    "ShortBio": "<!--Kayla is -->a lib studies major, a Marine Corps veteran, a wife, a mother, and a transplant to West Michigan.",
     "LongBio": "Kayla is a lib studies major, a Marine Corps veteran, a wife, a mother, and a transplant to West Michigan. She is a full-time student whose husband works an 80-100-hour active-duty job in the Marines. Kayla is determined to finish the accelerated program in lib studies in order to begin a master's in social work wherever she and her family are posted next. Serving in the military gave Kayla a confidence and determination to succeed in her education that she didn't have earlier as a community college student. She now wants to make sure that other veterans know about the resources available to them as they transition from military life to college life. She is an intern with the GVSU Veterans Network. She actively seeks out other veterans in classes and on campus to help them find what they need, academically, financially, and socially.",
      "Audio": {
       "0": {
@@ -69,7 +69,7 @@
   },
    "5":{
     "Name": "Scott",
-    "ShortBio": "Scott is an allied health science major, emphasizing in speech language pathology.",
+    "ShortBio": "<!--Scott is -->an allied health science major, emphasizing in speech language pathology.",
     "LongBio": "Scott is an allied health science major, emphasizing in speech language pathology. A multi-sport athlete in high school, Scott thought about physical therapy and engineering before deciding on his current major. He became involved in GVSU Crew as soon as he arrived on campus his freshman year. Scott acknowledges that rowing is a physically and mentally demanding, time-consuming sport, but he feels it has given him perspective and taught him the self discipline to face whatever adversity he may encounter. Through rowing, Scott has developed friendships that, hopefully, will continue long after graduation. Scott's strong athletic ability and keen interest in coaching make working in a school an interesting possibility for him, so that he might combine his academic and personal interests in his profession.",
      "Audio": {
       "0": {
@@ -86,7 +86,7 @@
   },
   "6":{
     "Name": "Vanessa",
-    "ShortBio": "Vanessa will graduate in 2017 with a degree in allied health science and a minor in criminal justice.",
+    "ShortBio": "<!--Vanessa -->will graduate in 2017 with a degree in allied health science and a minor in criminal justice.",
     "LongBio": "Vanessa will graduate in 2017 with a degree in allied health science and a minor in criminal justice. She plans to pursue a master's degree in public health. Growing up bilingual in a small town made Vanessa's transition to GVSU a bit of a challenge at first. Seeking out (and receiving) grants, getting involved with TRiO Student Support Services, and being her own strongest advocate, Vanessa has become an amazing example for others on how to succeed at college, no matter what your background. Vanessa has worked hard to get where she is, holding down two jobs throughout her time at GVSU, both in TRiO and off campus. She plans to advocate for those without a voice when she graduates, using her Spanish to help others navigate the complex healthcare landscape.",
      "Audio": {
       "0": {
@@ -103,7 +103,7 @@
   },
   "7":{
     "Name": "Samm",
-    "ShortBio": "Samm graduated in April with a degree in political science.",
+    "ShortBio": "<!--Samm -->graduated in April with a degree in political science.",
     "LongBio": "Samm graduated in April with a degree in political science. She will be entering the Master's program in College Student Affairs Leadership (CSAL) in fall. Samm was a 4-year varsity lacrosse player who came to GVSU from Maryland. Samm has worked in the Milton E. Ford LGBT Resource Center and is involved the Women's Center. As an undergrad, she was a leading advocate for inclusion and equity for students on campus. Samm struggled with and overcame some self-destructive behavior in her freshman year. The support she received from campus support services inspired her future career path. As graduate student, Samm also works as an Assistant Living Center Director and hopes to be to other new students what so many here were to her.",
      "Audio": {
       "0": {
@@ -120,7 +120,7 @@
   },
   "8":{
     "Name": "Pritaam",
-    "ShortBio": "Pritaam is an international student from West Bengal, India.",
+    "ShortBio": "<!--Pritaam is -->an international student from West Bengal, India.",
     "LongBio": "Pritaam is an international student from West Bengal, India. His major is information systems and he is beginning is second year at GVSU. He made the most of his first year far away from home, enrolling in the First Year Leadership Experience and winning an Exemplary Leadership award, and working in Campus Dining. Some of the cultural differences between India and America can make finding friends challenging, but Pritaam has found a solid friend base with other international students who share many of the same adjustment challenges. He has found support not only with the friends he's made on campus, but also from his professors, leadership mentors and technology; i.e., chatting with family back home.",
      "Audio": {
       "0": {
@@ -137,7 +137,7 @@
   },
    "9":{
     "Name": "Marie",
-    "ShortBio": "Marie graduated in April with a degree in statistics and is now a McNair Fellow, pursuing a PhD at Florida State University.",
+    "ShortBio": "<!--Marie -->graduated in April with a degree in statistics and is now a McNair Fellow, pursuing a PhD at Florida State University.",
     "LongBio": "Marie graduated in April with a degree in statistics. She is now a McNair Fellow, pursuing a PhD in statistics at Florida State University. Marie discovered her talent for mathematics and statistics while still in high school in Detroit. She started at GVSU in 2012 as a math major but switched majors in her sophomore year. Her transition from a mostly Black high school to GVSU wasn't without its challenges, and Marie handled difficult moments with tact, patience and intelligence. A McNair Scholar who finished her statistics degree in four years while serving as a Women in Science and Engineering (WISE) peer mentor, Marie still managed to participate in the Women in STEM Club and in two Alternative Spring breaks to do volunteer work.",
      "Audio": {
       "0": {
@@ -154,7 +154,7 @@
   },
     "10":{
     "Name": "Ja-Queshia",
-    "ShortBio": "Ja-Queshia is an April graduate now enrolled in the Advanced Standing Master of Social Work program.",
+    "ShortBio": "<!--Ja-Queshia is -->an April graduate now enrolled in the Advanced Standing Master of Social Work program.",
     "LongBio": "Ja-Queshia is an April graduate now enrolled in the Advanced Standing Master of Social Work program. A first-generation college student from Flint, Michigan, Ja-Queshia decided early on at GVSU to step outside of her comfort zone and get involved on campus. She got a job with TRiO Student Support Services in her freshman year, joined Alpha Kappa Psi, a co-ed business fraternity, and actively sought out events and opportunities to connect with other students. Interested in working in a helping profession, Ja-Queshia took advantage of a service-learning experience in Mississippi, interned with the Grand Rapids Housing Commission, and intends to use her degrees to eventually work in hospice care. She wants to encourage other students to keep moving forward and accomplishing their goals, no matter what they may face, and not let anything stop them from being successful. ",
      "Audio": {
       "0": {

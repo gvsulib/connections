@@ -17,8 +17,10 @@
 
 	<title><?php echo $website_title; ?> :: A GVSU Libraries Exhibit</title>
 
-	<link rel="stylesheet" type="text/css" href="inc/fa/css/font-awesome.min.css" />
-	<link rel="stylesheet" type="text/css" href="inc/styles.css" />
+	<link rel="stylesheet" href="inc/fa/css/font-awesome.min.css" />
+	<link  rel="stylesheet" href="https://fonts.googleapis.com/css?family=Pathway+Gothic+One" /> 
+	<link rel="stylesheet" href="inc/styles.css" />
+
 
 </head>
 
@@ -62,7 +64,7 @@ if(isset($_GET['story_id'])) { // Individual story template
 ?>
 	</ol>
 </div>
-
+<div style="clear: both;"></div>
 
 <?php
 
