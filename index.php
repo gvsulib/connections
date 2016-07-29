@@ -18,7 +18,7 @@
 	<title><?php echo $website_title; ?> :: A GVSU Libraries Exhibit</title>
 
 	<link rel="stylesheet" href="inc/fa/css/font-awesome.min.css" />
-	<link  rel="stylesheet" href="https://fonts.googleapis.com/css?family=Pathway+Gothic+One" /> 
+	<link  rel="stylesheet" href="https://fonts.googleapis.com/css?family=Pathway+Gothic+One" />
 	<link rel="stylesheet" href="inc/styles.css" />
 
 
@@ -27,10 +27,10 @@
 <body>
 
 	<header>
-		<h1><a href="index.php"><span><?php echo $website_title; ?></span></a></h1>
+		<h1><a href="index.php">Audio Stories</a></h1>
 	</header>
 
-<?php 
+<?php
 
 if(isset($_GET['story_id'])) { // Individual story template
 
@@ -58,7 +58,7 @@ if(isset($_GET['story_id'])) { // Individual story template
 
 	foreach($data[$id]['Audio'] as $snippet) {
 
-		echo '<li><a href="' . $snippet['URL'] . '"><span class="fa fa-volume-up" aria-hidden="true" style="color:' . $snippet['Emotion'] . '"></span>' . $snippet['Desc'] . '</a></li>';
+		echo '<li><a href="' . $snippet['URL'] . '" class="sm2_link"><span class="fa fa-volume-up" aria-hidden="true" style="color:' . $snippet['Emotion'] . '"></span>' . $snippet['Desc'] . '</a></li>';
 	}
 
 ?>
@@ -69,7 +69,7 @@ if(isset($_GET['story_id'])) { // Individual story template
 <?php
 
 } else { // homepage template
-	
+
 
 ?>
 <div id="list_wrapper">
@@ -153,9 +153,15 @@ if(isset($_GET['story_id'])) { // Individual story template
 ?>
 
 
-
+	<script src="inc/soundmanager2.js"></script>
+	<script src="inc/inlinemp3.js"></script>
 	<script src="inc/scripts.js"></script>
+	<script>
+soundManager.setup({
+  onready: function() {
+    // Ready to use; soundManager.createSound() etc. can now be called.
+  }
+});
+</script>
 </body>
 </html>
-
-
