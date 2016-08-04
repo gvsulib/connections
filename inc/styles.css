@@ -343,6 +343,13 @@ body #sm2-container embed {
  top:-9999em;
 }
 
+@media screen and (max-width: 420px) {
+	#list_wrapper ol li {
+		float: none;
+		margin: .5em auto;
+	}
+}
+
 @media screen and (max-width: 530px) {
 	h1 a {
 		color: #fff;
