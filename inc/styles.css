@@ -200,7 +200,7 @@ div.letter {
 
 .audio_player ol li {
 position: relative;
-
+line-height: 1.3em;
 }
 
 .audio_player ol li:first-child {
@@ -252,6 +252,7 @@ position: relative;
 .full-interview ul li {
 	display: inline-block;
 	margin-left: 1em;
+	line-height: 1.6em;
 }
 .full-interview a {
 	color: #069;
@@ -340,4 +341,28 @@ body #sm2-container embed {
 
  left:-9999em;
  top:-9999em;
+}
+
+@media screen and (max-width: 530px) {
+	h1 a {
+		color: #fff;
+	}
+
+}
+
+@media screen and (max-width: 640px) {
+	.bio_wrapper h2,
+	.bio_wrapper p,
+	.audio_player {
+		margin-left: .25em;
+	}
+	html {
+		background-position: -65% 185%;}
+	body {
+	background-position: 100% -45%;}
+.back-button {
+	margin-left: .25em;
+	margin-top: 5em;
+}
+
 }
