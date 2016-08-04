@@ -343,6 +343,37 @@ body #sm2-container embed {
  top:-9999em;
 }
 
+div.modal-transcript {
+	position: fixed;
+	top: 0;
+	width: 100%;
+	height: 100%;
+	background: rgba(0,0,0,.75);
+}
+
+iframe.modal-transcript {
+	background-color: #fff;
+    width: 80%;
+    height: 90%;
+    margin-left: 10%;
+		margin-top: 3%;
+}
+
+.close-modal {
+	background-color: #333;
+	border-radius: 50%;
+	position: absolute;
+	right: 8%;
+	top: 2%;
+	color: #fff;
+	cursor: pointer;
+	font-size: 2em;
+	height: 1em;
+	width: 1em;
+	text-align: center;
+	z-index: 100;
+}
+
 @media screen and (max-width: 420px) {
 	#list_wrapper ol li {
 		float: none;

@@ -58,7 +58,7 @@ if(isset($_GET['story_id'])) { // Individual story template
 
 	foreach($data[$id]['Audio'] as $snippet) {
 
-		echo '<li><a href="' . $snippet['URL'] . '" class="sm2_link"><span class="fa fa-volume-up" aria-hidden="true" style="color:' . $snippet['Emotion'] . '"></span>' . $snippet['Desc'] . '</a> <a href="' . $data[$id]['ShortTranscript'] . '" class="short-transcript" title="Read Transcript"><i class="fa fa-file-text-o"></i><span class="acc-hide">Transcript</span></a></li>';
+		echo '<li><a href="' . $snippet['URL'] . '" class="sm2_link"><span class="fa fa-volume-up" aria-hidden="true" style="color:' . $snippet['Emotion'] . '"></span>' . $snippet['Desc'] . '</a> <a href="' . $data[$id]['ShortTranscript'] . '" class="short-transcript transcript" title="Read Transcript"><i class="fa fa-file-text-o"></i><span class="acc-hide">Transcript</span></a></li>';
 	}
 
 ?>
@@ -68,7 +68,7 @@ if(isset($_GET['story_id'])) { // Individual story template
 <div class="full-interview">
 <ul>
 	<li><a href="<?php echo $data[$id]['FullInterview']; ?>"><i class="fa fa-volume-up"></i> Listen to the Full Interview (<?php echo $data[$id]['FullInterviewTime']; ?>)</a></li>
-	<li><a href="<?php echo $data[$id]['FullTranscript']; ?>"><i class="fa fa-file-text-o"></i> Read the full transcript</a></li>
+	<li><a href="<?php echo $data[$id]['FullTranscript']; ?>" class="transcript"><i class="fa fa-file-text-o"></i> Read the full transcript</a></li>
 </ul>
 </div>
 
@@ -158,7 +158,7 @@ if(isset($_GET['story_id'])) { // Individual story template
 
 ?>
 
-
+  <script src="http://code.jquery.com/jquery-1.12.4.min.js" integrity="sha256-ZosEbRLbNQzLpnKIkEdrPv7lOy9C27hHQ+Xp8a4MxAQ=" crossorigin="anonymous"></script>
 	<script src="inc/soundmanager2.js"></script>
 	<script src="inc/inlinemp3.js"></script>
 	<script src="inc/scripts.js"></script>
