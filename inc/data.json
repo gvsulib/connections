@@ -2,19 +2,33 @@
   "1":{
     "Name": "Elyse",
     "ShortBio": "<!--Elyse, -->28 years old, just finished her first year at GVSU.",
-    "LongBio": "<!--Elyse, -->28 years old, just finished her first year at GVSU.  A freelance writer in Grand Rapids, editor for The 3288 Review and owner of a personal biography service called Your Story, Elyse also works as the managing editor at the Richard M. And Helen DeVos  Center for Entrepreneurship and Innovation (CEI) in the Seidman College of Business. She is majoring in journalism and minoring in German. After dropping out of high school and taking classes at GRCC in her early twenties, Elyse looks at education differently than she once did. She is a highly motivated, successful student who, after graduating, plans to pursue a master's degree in journalism and someday, ride a motorbike through Vietnam.",
+    "LongBio": "Elyse, 28 years old, just finished her first year at GVSU.  A freelance writer in Grand Rapids, editor for The 3288 Review and owner of a personal biography service called Your Story, Elyse also works as the managing editor at the Richard M. And Helen DeVos  Center for Entrepreneurship and Innovation (CEI) in the Seidman College of Business. She is majoring in journalism and minoring in German. After dropping out of high school and taking classes at GRCC in her early twenties, Elyse looks at education differently than she once did. She is a highly motivated, successful student who, after graduating, plans to pursue a master's degree in journalism and someday, ride a motorbike through Vietnam.",
      "Audio": {
       "0": {
-        "Desc": "Here is a short description about the first audio file",
-        "URL": "audio/rain.mp3",
-        "Emotion": "red"
+        "Desc": "Elyse describes her appreciation for college as a non-traditional, older student. (1:46)",
+        "URL": "audio/Elyse1.mp3",
+        "Emotion": "#333"
       },
       "1": {
-        "Desc": "Here is a short description about the second audio file",
-        "URL": "audio/carl-3-barlp.mp3",
-        "Emotion": "green"
+        "Desc": "Elyse describes the excitement of realizing her goal and that you really can do anything you set to do. (:52)",
+        "URL": "audio/Elyse2.mp3",
+        "Emotion": "#333"
+      },
+      "2": {
+        "Desc": "Elyse explains how her transition to college student happened one class at a time. (:16)",
+        "URL": "audio/Elyse3.mp3",
+        "Emotion": "#333"
+      },
+      "3": {
+        "Desc": "Elyse sees the bigger picture; an education is so much more than a diploma. (1:20)",
+        "URL": "audio/Elyse4.mp3",
+        "Emotion": "#333"
       }
-    }
+    },
+    "ShortTranscript" : "https://drive.google.com/file/d/0B9zdEWGRi1oKWWJzOURpMnZDTlU/view?usp=sharing",
+    "FullTranscript" : "https://docs.google.com/document/d/1yp1vt2zj0PDY7b1M3yoPio0bm4yYQx44qVheEp5hH2U/edit?usp=sharing",
+    "FullInterview" : "audio/Elyse.mp3",
+    "FullInterviewTime" : "30:37"
   },
   "2":{
     "Name": "Liz",
@@ -22,16 +36,55 @@
     "LongBio": "Liz is a biology major, currently applying to graduate veterinary programs. A student in the Honors College, Liz comes from a rural, farm community and has known what she wanted to study since she got her first set of pigs to show at the county fair when she was only 4 years old. Liz is a driven, talented student who admits having had to learn new study and time management skills to succeed at GVSU in her very challenging field of study. In spite of her demanding schedule, Liz has found the time to be a program volunteer, a Murray International House peer mentor, and a Women in Science and Engineering (WISE) resident assistant. She credits a lot of her success to her involvement with campus activities.",
      "Audio": {
       "0": {
-        "Desc": "Here is a short description about the first audio file",
-        "URL": "audio/rain.mp3",
-        "Emotion": "red"
+        "Desc": "A class that stands out for Liz? Ballroom dancing! (:55)",
+        "URL": "audio/Liz_01.mp3",
+        "Emotion": "#333"
       },
       "1": {
-        "Desc": "Here is a short description about the second audio file",
-        "URL": "audio/carl-3-barlp.mp3",
-        "Emotion": "green"
+        "Desc": "Why Liz chose Ballroom dance. (1:27)",
+        "URL": "audio/Liz_02.mp3",
+        "Emotion": "#333"
+      },
+      "2": {
+        "Desc": "Liz on a college &#8220;adult&#8221; moment. (:27)",
+        "URL": "audio/Liz_03.mp3",
+        "Emotion": "#333"
+      },
+      "3": {
+        "Desc": "Liz on coming from a small town and getting to reinvent herself in college. (:44)",
+        "URL": "audio/Liz_04.mp3",
+        "Emotion": "#333"
+      },
+      "4": {
+        "Desc": "Taking international students sledding for the first time. (1:39)",
+        "URL": "audio/Liz_05.mp3",
+        "Emotion": "#333"
+      },
+      "5": {
+        "Desc": "Considering the possibility of studying abroad. (:57)",
+        "URL": "audio/Liz_06.mp3",
+        "Emotion": "#333"
+      },
+      "6": {
+        "Desc": "The joys and challenges of free time in college, and how the Writing Center helped Liz with those pesky commas. (1:31)",
+        "URL": "audio/Liz_07.mp3",
+        "Emotion": "#333"
+      },
+      "7": {
+        "Desc": "Liz on how one friend &#8220;found the spark&#8221; that led to her choosing a major she&#8217;s passionate about. (0:57)",
+        "URL": "audio/Liz_08.mp3",
+        "Emotion": "#333"
+      },
+      "8": {
+        "Desc": "That moment in Liz&#8217;s undergrad when she got it together (and the professor who helped). (1:38)",
+        "URL": "audio/Liz_09.mp3",
+        "Emotion": "#333"
       }
-    }
+    },
+    "ShortTranscript" : "https://docs.google.com/document/d/10MTSQkBBZ4MyhEc04rx3lHhko-Tt70-QTKw4sLbWytg/edit?usp=sharing",
+    "FullTranscript" : "https://docs.google.com/document/d/1Lo1DAVcoPNOaUq9d3glUEUR2I1tGCaCJRUprfB1WCJk/edit?usp=sharing",
+    "FullInterview" : "audio/Liz.mp3",
+    "FullInterviewTime" : "1:03:58"
   },
    "3":{
     "Name": "Jesenia",
@@ -39,16 +92,50 @@
     "LongBio": "Jesenia graduated from Wyoming High School. She is a junior, majoring in nursing. She is a first-generation student from a big family and has made the Dean's List the past two semesters, earning top grades in tough classes while working two jobs. One of her jobs is on campus, in the Financial Aid office. She is also involved with TRiO Student Support Services, a program for first-generation and limited-income students. She feels that this program has helped build her confidence academically and helped her, as a Latina student, find her place at GVSU and feel truly a part of the campus community. Balancing the demands of her work and school schedules sometimes leaves Jesenia little time for her super-supportive family and friends, but she handles her load with grace, ability, and perseverance.",
     "Audio": {
       "0": {
-        "Desc": "Here is a short description about the first audio file",
-        "URL": "audio/rain.mp3",
-        "Emotion": "red"
+        "Desc": "Jesenia voices her feelings of being the first in her family to go to college. (:45)",
+        "URL": "audio/Jesenia_01.mp3",
+        "Emotion": "#333"
       },
       "1": {
-        "Desc": "Here is a short description about the second audio file",
-        "URL": "audio/carl-3-barlp.mp3",
-        "Emotion": "green"
+        "Desc": "Realizing that college is more competitive than high school. (:50)",
+        "URL": "audio/Jesenia_02.mp3",
+        "Emotion": "#333"
+      },
+      "2": {
+        "Desc": "Committed to success – Jesenia is ok with a limited social life for the time being. (1:14)",
+        "URL": "audio/Jesenia_03.mp3",
+        "Emotion": "#333"
+      },
+      "3": {
+        "Desc": "The TRiO program kept Jesenia in school. (1:10)",
+        "URL": "audio/Jesenia_04.mp3",
+        "Emotion": "#333"
+      },
+      "4": {
+        "Desc": "The advisor relationship makes all the difference. (1:08)",
+        "URL": "audio/Jesenia_05.mp3",
+        "Emotion": "#333"
+      },
+      "5": {
+        "Desc": "Reaching out and finding help. (:32)",
+        "URL": "audio/Jesenia_06.mp3",
+        "Emotion": "#333"
+      },
+      "6": {
+        "Desc": "The confidence that comes with success (:07)",
+        "URL": "audio/Jesenia_07.mp3",
+        "Emotion": "#333"
+      },
+      "7": {
+        "Desc": "Two professors really stood out in Jesenia’s experience at GVSU. (1:33)",
+        "URL": "audio/Jesenia_08.mp3",
+        "Emotion": "#333"
       }
-    }
+    },
+    "ShortTranscript" : "https://docs.google.com/document/d/1Js82TyLKM8S8MKsV4E0GbyOBf4djMEdwSkehzs5ZVUg/edit?usp=sharing",
+    "FullTranscript" : "https://docs.google.com/document/d/1_OJ4Bx2cxWSy-inog5rfsOVyVDofzWOG7ZPwbW6sjtM/edit?usp=sharing",
+    "FullInterview" : "audio/Jesenia.mp3",
+    "FullInterviewTime" : "1:03:27"
   },
    "4":{
     "Name": "Kayla",
@@ -56,16 +143,50 @@
     "LongBio": "Kayla is a lib studies major, a Marine Corps veteran, a wife, a mother, and a transplant to West Michigan. She is a full-time student whose husband works an 80-100-hour active-duty job in the Marines. Kayla is determined to finish the accelerated program in lib studies in order to begin a master's in social work wherever she and her family are posted next. Serving in the military gave Kayla a confidence and determination to succeed in her education that she didn't have earlier as a community college student. She now wants to make sure that other veterans know about the resources available to them as they transition from military life to college life. She is an intern with the GVSU Veterans Network. She actively seeks out other veterans in classes and on campus to help them find what they need, academically, financially, and socially.",
      "Audio": {
       "0": {
-        "Desc": "Here is a short description about the first audio file",
-        "URL": "audio/rain.mp3",
-        "Emotion": "red"
+        "Desc": "Kayla talks about entering the military. (:35)",
+        "URL": "audio/Kayla1.mp3",
+        "Emotion": "#333"
       },
       "1": {
-        "Desc": "Here is a short description about the second audio file",
-        "URL": "audio/carl-3-barlp.mp3",
-        "Emotion": "green"
+        "Desc": "Numerous military deployments and the challenges of transitioning to college. (2:15)",
+        "URL": "audio/Kayla2.mp3",
+        "Emotion": "#333"
+      },
+      "2": {
+        "Desc": "The most challenging part of Kayla’s student experience as mother and veteran wife. (:43)",
+        "URL": "audio/Kayla3.mp3",
+        "Emotion": "#333"
+      },
+      "3": {
+        "Desc": "Kayla and Gayle discuss moving to a new place and not knowing anyone. (1:06)",
+        "URL": "audio/Kayla4.mp3",
+        "Emotion": "#333"
+      },
+      "4": {
+        "Desc": "How the military helped Kayla develop grit, and how that grit has helped her tackle challenges in college. (2:11)",
+        "URL": "audio/Kayla5.mp3",
+        "Emotion": "#333"
+      },
+      "5": {
+        "Desc": "Kayla&#8217;s choice of a liberal studies major, and plans to help veterans once she graduates. (1:47)",
+        "URL": "audio/Kayla6.mp3",
+        "Emotion": "#333"
+      },
+      "6": {
+        "Desc": "Campus life as a non-traditional student. (:55)",
+        "URL": "audio/Kayla7.mp3",
+        "Emotion": "#333"
+      },
+      "7": {
+        "Desc": "The most memorable class (and professors) she's taken so far. (1:31)",
+        "URL": "audio/Kayla8.mp3",
+        "Emotion": "#333"
       }
-    }
+    },
+    "ShortTranscript" : "https://docs.google.com/document/d/17Ws1psDfpyE-5dnV-bpiUObdPI3UrddZvS5Ml87pKNM/edit?usp=sharing",
+    "FullTranscript" : "https://docs.google.com/document/d/1WOSfDLXbdlMYgHtVgVOhARJS7HUpUeaHW7lQUlS26tE/edit?usp=sharing",
+    "FullInterview" : "audio/Kayla.mp3",
+    "FullInterviewTime" : "1:23:18"
   },
    "5":{
     "Name": "Scott",
@@ -73,16 +194,40 @@
     "LongBio": "Scott is an allied health science major, emphasizing in speech language pathology. A multi-sport athlete in high school, Scott thought about physical therapy and engineering before deciding on his current major. He became involved in GVSU Crew as soon as he arrived on campus his freshman year. Scott acknowledges that rowing is a physically and mentally demanding, time-consuming sport, but he feels it has given him perspective and taught him the self discipline to face whatever adversity he may encounter. Through rowing, Scott has developed friendships that, hopefully, will continue long after graduation. Scott's strong athletic ability and keen interest in coaching make working in a school an interesting possibility for him, so that he might combine his academic and personal interests in his profession.",
      "Audio": {
       "0": {
-        "Desc": "Here is a short description about the first audio file",
-        "URL": "audio/rain.mp3",
-        "Emotion": "red"
+        "Desc": "Scott started rowing in his freshman year. (1:10)",
+        "URL": "audio/Scott_01.mp3",
+        "Emotion": "#333"
       },
       "1": {
-        "Desc": "Here is a short description about the second audio file",
-        "URL": "audio/carl-3-barlp.mp3",
-        "Emotion": "green"
+        "Desc": "Scott describes why he rows. (2:22)",
+        "URL": "audio/Scott_02.mp3",
+        "Emotion": "#333"
+      },
+      "2": {
+        "Desc": "Getting nervous and dealing with disappointment. (3:17)",
+        "URL": "audio/Scott_03.mp3",
+        "Emotion": "#333"
+      },
+      "3": {
+        "Desc": "Scott talks about applying to the Speech Pathology program. (1:24)",
+        "URL": "audio/Scott_04.mp3",
+        "Emotion": "#333"
+      },
+      "4": {
+        "Desc": "Dealing with professors you like and ones you don’t like. (1:57)",
+        "URL": "audio/Scott_05.mp3",
+        "Emotion": "#333"
+      },
+      "5": {
+        "Desc": "Thinking about graduation. (1:19)",
+        "URL": "audio/Scott_06.mp3",
+        "Emotion": "#333"
       }
-    }
+    },
+    "ShortTranscript" : "https://docs.google.com/document/d/1hdNMiP4bkAzsGRG0riOeInEKfWDW3Y3p14x3OxjbK4s/edit?usp=sharing",
+    "FullTranscript" : "https://docs.google.com/document/d/1MW6Mgb4j-1NeqyiyCqoRaCqPa6Knrmma6L2THPY0FVA/edit?usp=sharing",
+    "FullInterview" : "audio/Scott.mp3",
+    "FullInterviewTime" : "1:13:05"
   },
   "6":{
     "Name": "Vanessa",
@@ -91,15 +236,49 @@
      "Audio": {
       "0": {
         "Desc": "Here is a short description about the first audio file",
-        "URL": "audio/rain.mp3",
-        "Emotion": "red"
+        "URL": "audio/Vanessa_01.mp3",
+        "Emotion": "#333"
       },
       "1": {
         "Desc": "Here is a short description about the second audio file",
-        "URL": "audio/carl-3-barlp.mp3",
-        "Emotion": "green"
+        "URL": "audio/Vanessa_02.mp3",
+        "Emotion": "#333"
+      },
+      "2": {
+        "Desc": "Here is a short description about the second audio file",
+        "URL": "audio/Vanessa_03.mp3",
+        "Emotion": "#333"
+      },
+      "3": {
+        "Desc": "Here is a short description about the second audio file",
+        "URL": "audio/Vanessa_04.mp3",
+        "Emotion": "#333"
+      },
+      "4": {
+        "Desc": "Here is a short description about the second audio file",
+        "URL": "audio/Vanessa_05.mp3",
+        "Emotion": "#333"
+      },
+      "5": {
+        "Desc": "Here is a short description about the second audio file",
+        "URL": "audio/Vanessa_06.mp3",
+        "Emotion": "#333"
+      },
+      "6": {
+        "Desc": "Here is a short description about the second audio file",
+        "URL": "audio/Vanessa_07.mp3",
+        "Emotion": "#333"
+      },
+      "7": {
+        "Desc": "Here is a short description about the second audio file",
+        "URL": "audio/Vanessa_08.mp3",
+        "Emotion": "#333"
       }
-    }
+    },
+    "ShortTranscript" : "",
+    "FullTranscript" : "https://docs.google.com/document/d/1adAyWHqvS9eB046L1Vg-j_R2GgXddi47fPURHmNryA8/edit?usp=sharing",
+    "FullInterview" : "audio/Vanessa.mp3",
+    "FullInterviewTime" : "1:01:03"
   },
   "7":{
     "Name": "Samm",
@@ -107,16 +286,50 @@
     "LongBio": "Samm graduated in April with a degree in political science. She will be entering the Master's program in College Student Affairs Leadership (CSAL) in fall. Samm was a 4-year varsity lacrosse player who came to GVSU from Maryland. Samm has worked in the Milton E. Ford LGBT Resource Center and is involved the Women's Center. As an undergrad, she was a leading advocate for inclusion and equity for students on campus. Samm struggled with and overcame some self-destructive behavior in her freshman year. The support she received from campus support services inspired her future career path. As graduate student, Samm also works as an Assistant Living Center Director and hopes to be to other new students what so many here were to her.",
      "Audio": {
       "0": {
-        "Desc": "Here is a short description about the first audio file",
-        "URL": "audio/rain.mp3",
-        "Emotion": "red"
+        "Desc": "Moving to Michigan from Maryland, Samm discovers a sense of belonging at GVSU. (2:42)",
+        "URL": "audio/Samm_01.mp3",
+        "Emotion": "#333"
       },
       "1": {
-        "Desc": "Here is a short description about the second audio file",
-        "URL": "audio/carl-3-barlp.mp3",
-        "Emotion": "green"
+        "Desc": "Samm finds her campus &#8220;home&#8221; late in her college experience, part 1 (:32)",
+        "URL": "audio/Samm_02.mp3",
+        "Emotion": "#333"
+      },
+      "2": {
+        "Desc": "Samm finds her campus &#8220;home&#8221; late in her college experience, part 2 (:46)",
+        "URL": "audio/Samm_03.mp3",
+        "Emotion": "#333"
+      },
+      "3": {
+        "Desc": "Samm looks back on some serious first-year struggles. (1:44)",
+        "URL": "audio/Samm_04.mp3",
+        "Emotion": "#333"
+      },
+      "4": {
+        "Desc": "Others see in Samm what she sometimes couldn&#8217;t see in herself. (1:45)",
+        "URL": "audio/Samm_05.mp3",
+        "Emotion": "#333"
+      },
+      "5": {
+        "Desc": "Reality check: college isn&#8217;t as easy as high school. (:33)",
+        "URL": "audio/Samm_06.mp3",
+        "Emotion": "#333"
+      },
+      "6": {
+        "Desc": "Black Feminist Thought: a class that changed everything. (2:38)",
+        "URL": "audio/Samm_07.mp3",
+        "Emotion": "#333"
+      },
+      "7": {
+        "Desc": "Samm realizes her future. (1:26)",
+        "URL": "audio/Samm_08.mp3",
+        "Emotion": "#333"
       }
-    }
+    },
+    "ShortTranscript" : "https://docs.google.com/document/d/15pI6K6LLn9e4aSTzNINkTFif9PCAkvbSClgD_r-9xwY/edit?usp=sharing",
+    "FullTranscript" : "https://docs.google.com/document/d/172Vzi1GiYt0z91UOH2eU64xjzcsLLfSt-FGtssm5Qdg/edit?usp=sharing",
+    "FullInterview" : "audio/Samm.mp3",
+    "FullInterviewTime" : "56:15"
   },
   "8":{
     "Name": "Pritaam",
@@ -124,16 +337,35 @@
     "LongBio": "Pritaam is an international student from West Bengal, India. His major is information systems and he is beginning is second year at GVSU. He made the most of his first year far away from home, enrolling in the First Year Leadership Experience and winning an Exemplary Leadership award, and working in Campus Dining. Some of the cultural differences between India and America can make finding friends challenging, but Pritaam has found a solid friend base with other international students who share many of the same adjustment challenges. He has found support not only with the friends he's made on campus, but also from his professors, leadership mentors and technology; i.e., chatting with family back home.",
      "Audio": {
       "0": {
-        "Desc": "Here is a short description about the first audio file",
-        "URL": "audio/rain.mp3",
-        "Emotion": "red"
+        "Desc": "Pritaam explains how he chose GVSU and the experience of making friends in a culture very different from his own. (3:05)",
+        "URL": "audio/Pritaam_01.mp3",
+        "Emotion": "#333"
       },
       "1": {
-        "Desc": "Here is a short description about the second audio file",
-        "URL": "audio/carl-3-barlp.mp3",
-        "Emotion": "green"
+        "Desc": "Pritaam gets involved on campus and is awarded for his work. (:54)",
+        "URL": "audio/Pritaam_02.mp3",
+        "Emotion": "#333"
+      },
+      "2": {
+        "Desc": "Adjusting to cultural differences and living life on his own, far from family. (2:46)",
+        "URL": "audio/Pritaam_03.mp3",
+        "Emotion": "#333"
+      },
+      "3": {
+        "Desc": "Why Pritaam changed his major, from mechanical engineering to computer information systems. (1:58)",
+        "URL": "audio/Pritaam_04.mp3",
+        "Emotion": "#333"
+      },
+      "4": {
+        "Desc": "Realizing that parents’ expectations vary by culture. (1:32)",
+        "URL": "audio/Pritaam_05.mp3",
+        "Emotion": "#333"
       }
-    }
+    },
+    "ShortTranscript" : "https://docs.google.com/document/d/1qlCfFLgBq201355h8fsNJOc3On40UcU2NMzZOh-aYjM/edit?usp=sharing",
+    "FullTranscript" : "https://docs.google.com/document/d/1PfjZAI_unrASr6JH4QK-lTXey2xhceF-7dxkCa6kupA/edit?usp=sharing",
+    "FullInterview" : "audio/Pritaam.mp3",
+    "FullInterviewTime" : "1:22:07"
   },
    "9":{
     "Name": "Marie",
@@ -141,16 +373,50 @@
     "LongBio": "Marie graduated in April with a degree in statistics. She is now a McNair Fellow, pursuing a PhD in statistics at Florida State University. Marie discovered her talent for mathematics and statistics while still in high school in Detroit. She started at GVSU in 2012 as a math major but switched majors in her sophomore year. Her transition from a mostly Black high school to GVSU wasn't without its challenges, and Marie handled difficult moments with tact, patience and intelligence. A McNair Scholar who finished her statistics degree in four years while serving as a Women in Science and Engineering (WISE) peer mentor, Marie still managed to participate in the Women in STEM Club and in two Alternative Spring breaks to do volunteer work.",
      "Audio": {
       "0": {
-        "Desc": "Here is a short description about the first audio file",
-        "URL": "audio/rain.mp3",
-        "Emotion": "red"
+        "Desc": "Marie talks about choosing her statistics major. (1:05)",
+        "URL": "audio/Marie_01.mp3",
+        "Emotion": "#333"
       },
       "1": {
-        "Desc": "Here is a short description about the second audio file",
-        "URL": "audio/carl-3-barlp.mp3",
-        "Emotion": "green"
+        "Desc": "Marie advocated for herself and found a new advisor. (:52)",
+        "URL": "audio/Marie_02.mp3",
+        "Emotion": "#333"
+      },
+      "2": {
+        "Desc": "Facing stereotypes and microaggressions. (2:24)",
+        "URL": "audio/Marie_03.mp3",
+        "Emotion": "#333"
+      },
+      "3": {
+        "Desc": "Choosing to experience a life outside of one’s comfort zone. (1:36)",
+        "URL": "audio/Marie_04.mp3",
+        "Emotion": "#333"
+      },
+      "4": {
+        "Desc": "Alternative Spring Breaks. (1:30)",
+        "URL": "audio/Marie_05.mp3",
+        "Emotion": "#333"
+      },
+      "5": {
+        "Desc": "A Faculty-student relationship that rocks. (3:27)",
+        "URL": "audio/Marie_06.mp3",
+        "Emotion": "#333"
+      },
+      "6": {
+        "Desc": "Marie’s mentor supports her aspirations. (2:28)",
+        "URL": "audio/Marie_07.mp3",
+        "Emotion": "#333"
+      },
+      "7": {
+        "Desc": "Feeling like an outsider and a target at the same time. (2:26)",
+        "URL": "audio/Marie_08.mp3",
+        "Emotion": "#333"
       }
-    }
+    },
+    "ShortTranscript" : "https://docs.google.com/document/d/1S1BqLl3Kutl-IYCiaZZiNdTTOrI0YwH1Coip6peEN54/edit?usp=sharing",
+    "FullTranscript" : "https://docs.google.com/document/d/1fsg1uuJcp7QoyxDjXpgHW362FE0iZrAH4hrnUsLoWxc/edit?usp=sharing",
+    "FullInterview" : "audio/Marie.mp3",
+    "FullInterviewTime" : "1:18:41"
   },
     "10":{
     "Name": "Ja-Queshia",
@@ -158,15 +424,34 @@
     "LongBio": "Ja-Queshia is an April graduate now enrolled in the Advanced Standing Master of Social Work program. A first-generation college student from Flint, Michigan, Ja-Queshia decided early on at GVSU to step outside of her comfort zone and get involved on campus. She got a job with TRiO Student Support Services in her freshman year, joined Alpha Kappa Psi, a co-ed business fraternity, and actively sought out events and opportunities to connect with other students. Interested in working in a helping profession, Ja-Queshia took advantage of a service-learning experience in Mississippi, interned with the Grand Rapids Housing Commission, and intends to use her degrees to eventually work in hospice care. She wants to encourage other students to keep moving forward and accomplishing their goals, no matter what they may face, and not let anything stop them from being successful. ",
      "Audio": {
       "0": {
-        "Desc": "Here is a short description about the first audio file",
-        "URL": "audio/rain.mp3",
-        "Emotion": "red"
+        "Desc": "Ja-Queshia remembers feeling scared and unsure when she arrived at GVSU. (:38)",
+        "URL": "audio/Ja-Queshia1.mp3",
+        "Emotion": "#333"
       },
       "1": {
-        "Desc": "Here is a short description about the second audio file",
-        "URL": "audio/carl-3-barlp.mp3",
-        "Emotion": "green"
+        "Desc": "Meeting that first new person can change your life. (2:25)",
+        "URL": "audio/Ja-Queshia2.mp3",
+        "Emotion": "#333"
+      },
+      "2": {
+        "Desc": "The TriO effect. A major part of the college experience for Ja-Queshia. (3:48)",
+        "URL": "audio/Ja-Queshia3.mp3",
+        "Emotion": "#333"
+      },
+      "3": {
+        "Desc": "Applying for (and receiving) scholarships to avoid &#8220;the worst feeling ever.&#8221; (3:02)",
+        "URL": "audio/Ja-Queshia4.mp3",
+        "Emotion": "#333"
+      },
+      "4": {
+        "Desc": "Ja-Queshia&#8217;s great advice for new students. (:26)",
+        "URL": "audio/Ja-Queshia5.mp3",
+        "Emotion": "#333"
       }
-    }
+    },
+    "ShortTranscript" : "https://docs.google.com/document/d/1Pq7LnWLDxljdhOnd-eCfgWVF1me84vfEs_LFVdt7DV4/edit?usp=sharing",
+    "FullTranscript" : "https://docs.google.com/document/d/1DzH03wvoUUcZW0_7wlmfqQOfFw2MVm8yDJqbfqh9r20/edit?usp=sharing",
+    "FullInterview" : "audio/JaQueshia.mp3",
+    "FullInterviewTime" : "1:05:53"
   }
 }
